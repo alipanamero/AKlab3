@@ -1,7 +1,7 @@
 .syntax unified
 .cpu cortex-m4
 .thumb
-.equ a, 5
+.equ a, 9
 .equ b, 3
 .equ c, 2
 
